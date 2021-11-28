@@ -149,6 +149,11 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
   {
+    text: 'Ihsan Long Logo',
+    value:
+      'https://res.cloudinary.com/doc4dinqa/image/upload/v1638066468/ihsan/Logo-ihsan-long_cghzar.svg',
+  },
+  {
     text: 'Ihsan Blue Logo',
     value:
       'https://res.cloudinary.com/doc4dinqa/image/upload/v1638057323/ihsan/Logo_z2rxoq.svg',
@@ -176,6 +181,11 @@ const imageLightOptions: DropdownOption[] = [
 ];
 
 const imageDarkOptions: DropdownOption[] = [
+  {
+    text: 'Ihsan Long Logo',
+    value:
+      'https://res.cloudinary.com/doc4dinqa/image/upload/v1638066468/ihsan/Logo-ihsan-long_cghzar.svg',
+  },
   {
     text: 'Ihsan Blue Logo',
     value:
